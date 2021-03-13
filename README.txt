@@ -1,0 +1,1 @@
+Закинуть папки plugins & scripting в папку с sourcemod.
